@@ -1,0 +1,2 @@
+# SegurosFicticiaSA
+PRUEBA TECNICA DE BITSION
